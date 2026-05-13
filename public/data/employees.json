@@ -1,0 +1,82 @@
+[
+  {
+    "employeeId": 101,
+    "employeeName": "John Smith",
+    "department": "IT",
+    "designation": "Software Engineer",
+    "email": "john.smith@example.com",
+    "contactNumber": "9876543210"
+  },
+  {
+    "employeeId": 102,
+    "employeeName": "Emma Johnson",
+    "department": "HR",
+    "designation": "HR Manager",
+    "email": "emma.johnson@example.com",
+    "contactNumber": "9876543211"
+  },
+  {
+    "employeeId": 103,
+    "employeeName": "Michael Brown",
+    "department": "Finance",
+    "designation": "Accountant",
+    "email": "michael.brown@example.com",
+    "contactNumber": "9876543212"
+  },
+  {
+    "employeeId": 104,
+    "employeeName": "Sophia Davis",
+    "department": "Marketing",
+    "designation": "Marketing Executive",
+    "email": "sophia.davis@example.com",
+    "contactNumber": "9876543213"
+  },
+  {
+    "employeeId": 105,
+    "employeeName": "William Wilson",
+    "department": "IT",
+    "designation": "Frontend Developer",
+    "email": "william.wilson@example.com",
+    "contactNumber": "9876543214"
+  },
+  {
+    "employeeId": 106,
+    "employeeName": "Olivia Martinez",
+    "department": "Support",
+    "designation": "Support Engineer",
+    "email": "olivia.martinez@example.com",
+    "contactNumber": "9876543215"
+  },
+  {
+    "employeeId": 107,
+    "employeeName": "James Anderson",
+    "department": "Operations",
+    "designation": "Operations Analyst",
+    "email": "james.anderson@example.com",
+    "contactNumber": "9876543216"
+  },
+  {
+    "employeeId": 108,
+    "employeeName": "Ava Thomas",
+    "department": "IT",
+    "designation": "Backend Developer",
+    "email": "ava.thomas@example.com",
+    "contactNumber": "9876543217"
+  },
+  {
+    "employeeId": 109,
+    "employeeName": "Benjamin Taylor",
+    "department": "Sales",
+    "designation": "Sales Executive",
+    "email": "benjamin.taylor@example.com",
+    "contactNumber": "9876543218"
+  },
+  {
+    "employeeId": 110,
+    "employeeName": "Mia White",
+    "department": "Admin",
+    "designation": "Administrator",
+    "email": "mia.white@example.com",
+    "contactNumber": "9876543219"
+  }
+]
