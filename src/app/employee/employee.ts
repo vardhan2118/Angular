@@ -5,7 +5,6 @@ import { EmployeeModel } from '../models/employee-model';
 
 @Component({
   selector: 'app-employee',
-  standalone: true,
   imports: [CommonModule],
   templateUrl: './employee.html',
   styleUrl: './employee.css',
